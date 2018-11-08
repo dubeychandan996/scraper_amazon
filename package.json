@@ -1,0 +1,37 @@
+{
+  "name": "scraper_amazon",
+  "version": "1.0.0",
+  "description": "find information about product by link, like: price, availability, seller, title.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "christianp93",
+  "license": "MIT",
+  "dependencies": {
+    "amazon-scraper": "0.0.4",
+    "cheerio": "^1.0.0-rc.2",
+    "cli-table": "^0.3.1",
+    "jsdom": "^13.0.0",
+    "product-scraper": "^0.1.1",
+    "proxycrawl": "^1.3.0",
+    "puppeteer": "^1.9.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianP93/scraper_amazon.git"
+  },
+  "keywords": [
+    "amazon",
+    "scraping",
+    "product",
+    "infromation"
+  ],
+  "bugs": {
+    "url": "https://github.com/ChristianP93/scraper_amazon/issues"
+  },
+  "homepage": "https://github.com/ChristianP93/scraper_amazon#readme"
+}
