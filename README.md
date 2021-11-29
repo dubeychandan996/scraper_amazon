@@ -1,4 +1,4 @@
-# scraper_amazon
+# scraper_amazone
 
 find information about product by link, like: price, availability, seller, title.
 
